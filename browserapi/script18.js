@@ -18,7 +18,7 @@
 
 const firstLink = document.querySelector('a')
 
-if(firstLink.hasAttribute('class')) {
+if(firstLink.hasAttributes('class')) {
     firstLink.classList.add('azul')
 } else {
     firstLink.classList.add('rojo')
