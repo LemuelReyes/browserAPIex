@@ -25,7 +25,7 @@ const timer = function(timeLeft){
         if(timeLeft > 0) {
             console.log(`You have ${timeLeft--} seconds left in your session`)  
         }  else if(timeLeft === 0) {
-            console.log(`Your session has expired.`)
+            alert(`Your session has expired.`)
             clearInterval(interval)
         }
     }, 1000)
