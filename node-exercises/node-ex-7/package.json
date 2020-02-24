@@ -1,0 +1,12 @@
+{
+  "name": "ex-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex-7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ex-7"
+  },
+  "author": "",
+  "license": "ISC"
+}
