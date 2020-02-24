@@ -1,0 +1,16 @@
+{
+  "name": "ex-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex-3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ex-3"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "logplease": "^1.2.15"
+  }
+}
