@@ -1,0 +1,15 @@
+{
+  "name": "ex-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex-4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ex-4"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "one-liner-joke": "^1.2.0"
+  }
+}
