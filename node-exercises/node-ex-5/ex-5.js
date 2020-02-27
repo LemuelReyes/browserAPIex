@@ -1,3 +1,3 @@
 const isEven = require('./numbers')
 
-isEven(3)
+isEven(2)
