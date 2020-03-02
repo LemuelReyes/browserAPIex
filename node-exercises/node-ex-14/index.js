@@ -18,10 +18,11 @@ app.get('/users', function(req, res){
 // ERROR
 
 // app.use(function(err, req, res, next){
+//     console.error(err.stack)
 //     res.status(500).sendFile(path.join(__dirname, './500.html'))
 // });
 
-// //404
+//404
 //  app.use(function (req, res, next) {
 //     res.status(404).sendFile(path.join(__dirname, './404.html'))
 // });
