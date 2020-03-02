@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const Logger = require('logplease');
-const logger = Logger.create('utils');
+const logger = Logger.create('Jarvis');
 
 app.get('/', function(request, response){
     response.send('Congrats youre using your first Node.js and Express as Web Server');
